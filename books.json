@@ -1,0 +1,37 @@
+[
+    {
+        "book_id": 1,
+        "title": "book",
+        "author": "arik",
+        "year": 1987,
+        "status": "отсутствует"
+    },
+    {
+        "book_id": 2,
+        "title": "book2",
+        "author": "arik2",
+        "year": 1988,
+        "status": "в наличии"
+    },
+    {
+        "book_id": 3,
+        "title": "book3",
+        "author": "arik3",
+        "year": 1989,
+        "status": "в наличии"
+    },
+    {
+        "book_id": 4,
+        "title": "book4",
+        "author": "arik4",
+        "year": 1990,
+        "status": "отсутствует"
+    },
+    {
+        "book_id": 5,
+        "title": "book5",
+        "author": "arik5",
+        "year": 1991,
+        "status": "в наличии"
+    }
+]
